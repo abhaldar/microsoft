@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\abhaldar\\documents\\visual studio 2017\\Projects\\GpsTestApp\\GpsTestApp\\GpsTestApp.csproj",
+      "projectUniqueName": "C:\\Users\\abhaldar\\Source\\Repos\\github\\microsoft\\GpsTestApp\\GpsTestApp.csproj",
       "projectName": "GpsTestApp",
-      "projectPath": "c:\\users\\abhaldar\\documents\\visual studio 2017\\Projects\\GpsTestApp\\GpsTestApp\\GpsTestApp.csproj",
+      "projectPath": "C:\\Users\\abhaldar\\Source\\Repos\\github\\microsoft\\GpsTestApp\\GpsTestApp.csproj",
       "packagesPath": "C:\\Users\\abhaldar\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\abhaldar\\documents\\visual studio 2017\\Projects\\GpsTestApp\\GpsTestApp\\obj\\",
+      "outputPath": "C:\\Users\\abhaldar\\Source\\Repos\\github\\microsoft\\GpsTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
